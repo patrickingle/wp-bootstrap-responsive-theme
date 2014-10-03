@@ -1,0 +1,15 @@
+/*
+Theme Name: Responsive Language Center NYC using Bootstrap Scaffolding
+Theme URI: http://languagecenternyc.com
+Author: PHK Corporation
+Author URI: http://phkcorp.com/
+Description: For exclusive use by languagecenternyc.com
+Version: 1.0
+License: Proprietary
+License URI: 
+Tags: languagecenternyc, rsponsive, bootstrap
+Text Domain: languagecenternyc-bootstrap
+*/
+
+@import url('bootstrap/css/bootstrap.css'); 
+@import url('bootstrap/css/bootstrap-responsive.css'); 
