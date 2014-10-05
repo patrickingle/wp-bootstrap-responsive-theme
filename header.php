@@ -11,6 +11,7 @@ $userdata =  get_userdata($post->post_author);
     <meta name="author" content="<?php echo $userdata->display_name; ?>">
     <!-- Bootstrap -->
     <link href="<?php echo get_stylesheet_uri(); ?>" rel="stylesheet" media="screen">
+    <link href="<?php bloginfo('template_directory'); ?>/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
     
     <?php wp_head(); ?>
   </head>
